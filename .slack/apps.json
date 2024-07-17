@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "T03G69YQ8U9": {
+      "app_id": "A07CRVD9QQ4",
+      "IsDev": false,
+      "team_domain": "jp-sandbox",
+      "team_id": "T03G69YQ8U9"
+    }
+  },
+  "default": "jp-sandbox"
+}
